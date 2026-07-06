@@ -1,4 +1,4 @@
-# Hi 👋, I'm NKS
+# Hi 👋, I'm Kavya Naveen
 
 💻 Passionate about coding, building cool projects, and turning ☕ into code.
 
